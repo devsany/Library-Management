@@ -33,7 +33,17 @@
       ![view book list search](https://github.com/user-attachments/assets/9e24dc06-736a-48cd-981d-6943fc51788a)
   *  List of book table appear with use full information
       ![view book list table ](https://github.com/user-attachments/assets/0601b328-f861-4282-ae73-c6c0201938a8)
-
-
-  
+  *  If user Want to Delete click <i>Delete</i> button
+      ![view book list table delete](https://github.com/user-attachments/assets/a51fa0fe-6678-4951-af9f-abd106fb7843)
+  *  If you found mistake in any column Click <i>Edit</i> button
+      ![view book list table  Edit button](https://github.com/user-attachments/assets/041bee9d-523c-4859-87bc-df152ff51faf)
+       ![view book list table  edit quantity](https://github.com/user-attachments/assets/7ce7b5a2-0f00-4152-bbc9-242aaaf9622a)
+  *  Change you mistake.
+      ![view book list table  edit quantity before](https://github.com/user-attachments/assets/ddb4290b-97db-4d42-8e9f-73d71b5307ea)
+      ![view book list table  edit quantity after](https://github.com/user-attachments/assets/58b36e12-39d7-4b3e-93ea-6b02ca18bcf8)
+  *  Again View List Book page appear with updated value:
+      ![view book list table  edit quantity final](https://github.com/user-attachments/assets/93689b56-9e95-4d6b-9b30-31d7402510a8)
+  *  User can search the book by click on search button.
+       ![view book list table  edit quantity search book](https://github.com/user-attachments/assets/1f8e9596-9d8c-4b75-b7a8-0c3d9c207d8c)
+ ## About 
 

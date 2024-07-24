@@ -12,4 +12,7 @@
  ![lib management page setup'](https://github.com/user-attachments/assets/5eebe302-79a5-4292-9a6c-67d35fef0eba)
 
   ## About Home Page
-  *  
+  *  Home is the first impression of site so i made it attractive and very informative about this web application.
+  *  It contain a Form which directly send massage to web owner
+    ![Subscribe 01](https://github.com/user-attachments/assets/70d79d57-33f6-4d80-b005-1fb374751b59)
+

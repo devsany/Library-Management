@@ -45,5 +45,11 @@
       ![view book list table  edit quantity final](https://github.com/user-attachments/assets/93689b56-9e95-4d6b-9b30-31d7402510a8)
   *  User can search the book by click on search button.
        ![view book list table  edit quantity search book](https://github.com/user-attachments/assets/1f8e9596-9d8c-4b75-b7a8-0c3d9c207d8c)
- ## About 
+ ## About Depo Page
+   This page is use to allocate the book to students:
+   *  Click on Depo and navigate to Depo page
+       ![Depo main page main](https://github.com/user-attachments/assets/369f8947-f394-46e0-8b5e-0021dfd90c97)
+   *  It has search input box to search book
+       ![Depo main page](https://github.com/user-attachments/assets/6eb6a6a0-dec4-4d16-b18a-b4369b026e74)
+
 

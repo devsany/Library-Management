@@ -52,5 +52,12 @@
        ![Depo main page main](https://github.com/user-attachments/assets/369f8947-f394-46e0-8b5e-0021dfd90c97)
    *  It has search input box to search book
        ![Depo main page](https://github.com/user-attachments/assets/6eb6a6a0-dec4-4d16-b18a-b4369b026e74)
+##  Depo book to Students:
+   *  Click of Depo to student
+       ![Depo main page main to student button](https://github.com/user-attachments/assets/10090c7d-5c0b-437d-9b04-4d855a88e348)
+    *  Fill the form:
+      ![Depo main page main student fill form](https://github.com/user-attachments/assets/4c1670f3-204f-4dd1-9a69-e50348280231)
+   *  Click Update button:
+       ![Depo main page main student update button ](https://github.com/user-attachments/assets/94968acf-aa7a-4e50-a33d-e216b79875d8)
 
 
